@@ -1,0 +1,6 @@
+framework module Pods_CJCategoryKit_Example {
+  umbrella header "Pods-CJCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CJCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of CJCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhusf/CJCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhusf": "496795352@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhusf/CJCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CJCategoryKit/Classes/**/*"
+}

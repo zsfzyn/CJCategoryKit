@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CJCategoryKit'
-  s.version          = '0.1.0'
+  s.version          = '1.0'
   s.summary          = 'A short description of CJCategoryKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zhusf/CJCategoryKit'
+  s.homepage         = 'https://github.com/zsfzyn/CJCategoryKit.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhusf' => '496795352@qq.com' }
-  s.source           = { :git => 'https://github.com/zhusf/CJCategoryKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/zsfzyn/CJCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
