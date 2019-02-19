@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CJCategoryKit_Example' do
+  pod 'CJCategoryKit', :path => '../'
+
+  target 'CJCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
